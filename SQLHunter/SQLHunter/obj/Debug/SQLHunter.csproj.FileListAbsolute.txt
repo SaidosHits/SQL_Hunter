@@ -1,0 +1,7 @@
+C:\Users\saidl\source\repos\SQLHunter\SQLHunter\bin\Debug\SQLHunter.exe.config
+C:\Users\saidl\source\repos\SQLHunter\SQLHunter\bin\Debug\SQLHunter.exe
+C:\Users\saidl\source\repos\SQLHunter\SQLHunter\bin\Debug\SQLHunter.pdb
+C:\Users\saidl\source\repos\SQLHunter\SQLHunter\obj\Debug\SQLHunter.csproj.AssemblyReference.cache
+C:\Users\saidl\source\repos\SQLHunter\SQLHunter\obj\Debug\SQLHunter.csproj.CoreCompileInputs.cache
+C:\Users\saidl\source\repos\SQLHunter\SQLHunter\obj\Debug\SQLHunter.exe
+C:\Users\saidl\source\repos\SQLHunter\SQLHunter\obj\Debug\SQLHunter.pdb
